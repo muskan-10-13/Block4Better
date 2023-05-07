@@ -1,0 +1,13 @@
+{
+    "name": "Block4Better",
+    "version": "1.0",
+    "permissions": ["webRequest", "<all_urls>", "webRequestBlocking"],
+    "description": "Interruptions & Distractions are never welcomed .So what are you waiting for BLOCK THEM at your ease",
+    "background": {
+        "scripts": ["operations.js"]
+    },
+    "icons": { "16": "block1.png",
+           "48": "block2.png",
+          "128": "block3.png" },
+    "manifest_version": 2
+}
